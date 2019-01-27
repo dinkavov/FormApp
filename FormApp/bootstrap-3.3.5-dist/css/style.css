@@ -1,0 +1,26 @@
+body {
+
+}
+
+button {
+	position: center;
+}
+h3 {
+	text-align: center;
+}
+th ,td {
+	text-align: center;
+}
+hr {
+	margin: 0 auto;
+  	border-width: 1px;
+}
+.modal-body {
+
+    position: relative;
+    padding: 0px;
+}
+
+.panel-default > .panel-heading, .panel-body {
+	text-align: center;
+}
